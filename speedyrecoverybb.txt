@@ -1,0 +1,35 @@
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>speedy recovery baby</title>
+    <style>
+        body{
+            background-color: lightpink;
+            text-align: center;
+            font-family: arial, sans sans-serif;
+            padding-top: 50px;
+        }
+h1{
+    color: rgb(185, 65, 85);
+}
+p{
+    color: rgb(185, 65, 85);
+}
+img{
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
+    </style>
+</head>
+<body>
+    <h1>speedy recovery cinta hati</h1>
+    <p> lobiu shooo much 🩷😗</p>
+    <img src="heart1.webp"
+    alt="get well soon GIF"
+    
+</body>
+</html>
